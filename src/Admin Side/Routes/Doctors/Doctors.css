@@ -1,0 +1,14 @@
+.admin-side-appointmnet-heading{
+    
+    color: var(--neutral-black, #25282B);
+
+/* H5 - bold 20 (26, 0.2px) */
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 130% */
+letter-spacing: 0.2px;
+margin-top: 46px;
+margin-left: 60px;
+}
